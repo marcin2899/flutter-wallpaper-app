@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/KHDbVG3zLC9xDyx1yd/giphy.gif"/>
 </div>
 
-tr>
+<tr>
       <td style="text-align: center">
         <img src="./screenshots/Screenshot1.png" width="200" />
       </td>
