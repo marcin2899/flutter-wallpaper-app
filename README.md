@@ -4,7 +4,8 @@
   <img src="https://media.giphy.com/media/KHDbVG3zLC9xDyx1yd/giphy.gif"/>
 </div>
 
-
+<table>
+  <tr>
       <td style="text-align: center">
         <img src="./screenshots/Screenshot1.png" width="200" />
       </td>
@@ -17,7 +18,8 @@
       <td style="text-align: center">
         <img src="./screenshots/Screenshot4.png" width="200" />
       </td>
-    
+    </tr>
+   </table>
 
 ## Tools
 - Firebase Cloud Firestore
