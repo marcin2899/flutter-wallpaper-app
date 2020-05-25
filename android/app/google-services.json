@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "240152949766",
+    "firebase_url": "https://wallpaperappmk.firebaseio.com",
+    "project_id": "wallpaperappmk",
+    "storage_bucket": "wallpaperappmk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240152949766:android:53e7cdd71d78781ff9bf87",
+        "android_client_info": {
+          "package_name": "com.marcinkonwiak.minimalbackgrounds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240152949766-t6v7bg1f00epu1bq80f373sbdadcirk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRDNAowV_-jDFw7PbxhqZMV1OQN2pxYi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240152949766-t6v7bg1f00epu1bq80f373sbdadcirk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
