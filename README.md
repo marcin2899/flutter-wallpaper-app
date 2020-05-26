@@ -7,7 +7,7 @@
 <table>
   <tr>
       <td style="text-align: center">
-        <img src="./screenshots/Screenshot1.png" width="200" />
+        <img src="./screenshots/Screenshot5.png" width="200" />
       </td>
       <td style="text-align: center">
         <img src="./screenshots/Screenshot2.png" width="200" />
