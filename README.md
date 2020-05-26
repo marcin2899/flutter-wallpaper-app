@@ -7,8 +7,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/KHDbVG3zLC9xDyx1yd/giphy.gif"/>
 </div>
-<div align="center">
-</div>
+
 
 <table>
   <tr>
