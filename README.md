@@ -1,4 +1,5 @@
 # Flutter Wallpaper App
+<a href='https://play.google.com/store/apps/details?id=io.github.jogboms.tailormade'><img alt='Get it on Google Play' src='./screenshots/google_play.png' height='36px'/></a>
 
 <div align="center">
   <img src="https://media.giphy.com/media/KHDbVG3zLC9xDyx1yd/giphy.gif"/>
